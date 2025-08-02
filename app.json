@@ -4,7 +4,7 @@
     "slug": "Estate",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/icon-1.png",
     "scheme": "estate",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -51,6 +51,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4f782fbc-17b9-466f-bd32-4cdbbb1ca10d"
+      }
     }
   }
 }

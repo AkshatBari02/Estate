@@ -148,7 +148,7 @@ const Property = () => {
       });
 
       Toast.show({
-        type: 'error',
+        type: 'success',
         text1: 'Review Added',
         text2: 'Your review has been added !',
         position: 'top',
